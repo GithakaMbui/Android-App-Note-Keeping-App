@@ -2,6 +2,7 @@ package com.example.mitchnotes;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -33,6 +34,9 @@ public class NotesListActivity extends AppCompatActivity {
 
         initRecyclerView();
         insertFakeNoteS();
+
+        setSupportActionBar((Toolbar)findViewById(R.id.notes_toolbar));
+        setTitle("Notes");
 
 //        Note note = new Note( "some title", "some content", "timestamp");
 //        Log.d(TAG, "onCreate: my note" + note.getTitle());
