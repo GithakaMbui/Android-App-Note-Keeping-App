@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
-    android:weightsum="100"
+    android:weightSum="100"
     android:background="@color/lightYellow"
     android:gravity="center_vertical">
     
@@ -37,8 +37,7 @@
         android:layout_weight="20"
         android:id="@+id/note_timestamp"
         android:textSize="17sp"
-        android:lines="1"
-        android:text="September 2020"
+        android:text="Sept 2020"
         android:padding="10dp"
         />
 
