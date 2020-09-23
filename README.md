@@ -7,8 +7,8 @@
 
 **What I learnt**
 
-  ⋅⋅*Debugging in Android Studio
-  ⋅⋅*Defining a Data Model
-  ⋅⋅*Setting up a Recycler View
-  ⋅⋅*Building a custom toolbar
-  ⋅⋅*Themes, Colors and Styles
+  1.Debugging in Android Studio
+  2.Defining a Data Model
+  3.Setting up a Recycler View
+  4.Building a custom toolbar
+  5.Themes, Colors and Styles
