@@ -1,9 +1,10 @@
 # Android-App-Note-Keeping-App
-## Note Keeping App. This is an android app to make small notes. It helps me make, save, edit and delete notes.
+
+###### Note Keeping App. This is an android app to make small notes. It helps me make, save, edit and delete notes.
 
 **My goal**
 
-The objective of this project is to help me learn android and java.
+The objective of this project is to help me learn Android and Java.
 
 **What I learnt**
 
